@@ -1,0 +1,26 @@
+{
+  "free": {
+    "juyon": {
+      "name": "주용",
+      "title": "제목",
+      "write": "반 장애인년"
+    },
+    "pilseong": {
+      "name": "정필성",
+      "title": "제목",
+      "write": "게시글을 작성하시오"
+    }
+  },
+  "QnA": {
+    "juyon2": {
+      "name": "주용",
+      "title": "제목",
+      "write": "반 장애인년"
+    },
+    "pilseong2": {
+      "name": "정필성",
+      "title": "제목",
+      "write": "게시글을 작성하시오"
+    }
+  }
+}
